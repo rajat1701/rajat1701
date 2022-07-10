@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/rajat1701](https://github.com/rajat1701)
 
-- 💬 Ask me about **ReactJS, JavsScript, Problem Solving**
+- 💬 Ask me about **ReactJS, JavaScript, Problem Solving**
 
 - 📫 How to reach me **rajatmalik1701@gmail.com**
 
