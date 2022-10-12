@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajat1701&label=Profile%20views&color=0e75b6&style=flat" alt="rajat1701" /> </p>
 
-- 🔭 I’m currently working on **ReactJS**
+- 🔭 I’m currently working on **NodeJS**
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **ReactJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rajat1701](https://github.com/rajat1701)
 
